@@ -7,6 +7,14 @@
     <title>Welcome Git Learning</title>
 </head>
 <body>
-    
+    <section>
+        Header
+    </section>
+    <section>
+        Body
+    </section>
+    <section>
+        Footer
+    </section>
 </body>
 </html>
